@@ -1,0 +1,20 @@
+{
+  "directive": {
+    "header": {
+       "namespace": "DNA.SceneControl",
+       "name": "Activate",
+       "interfaceVersion": "2",
+       "messageId": "1bd5d003-31b9-476f-ad03-71d471922820",
+    },
+    "endpoint": {
+      "scope": {
+         "type": "BearerToken",
+         "token": "e01f3b2be08c879e0272c1ef9081de8eb3eaf3caf9b16aa35c5d4d3497ca3a8de567188ed0dd72c3dc639300666ba5f3"
+      },
+      "endpointId": "3008292524842521152",
+      "cookie": {}
+    },
+    "payload": {
+    }
+  }
+}

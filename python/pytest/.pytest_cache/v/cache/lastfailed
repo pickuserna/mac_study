@@ -1,0 +1,4 @@
+{
+  "test_example.py::test_inc": true, 
+  "test_tempdir.py::test_needsfiles": true
+}
